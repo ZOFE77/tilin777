@@ -1,0 +1,144 @@
+*{
+margin: 10px;
+padding: 2px;
+}
+body{
+    background: #a3a2a0e0;
+font-family: Arial, Helvetica, sans-serif;
+}
+#container{
+    width: 100%;
+    margin: 100px auto;
+}
+header h1{
+    background: #000000e1;
+    height: 100px;
+        width: 100%;
+        text-align: center;
+        line-height: 200%;
+color: #fffffffd;
+border-bottom: 5px solid #59585a7a;
+font-size: 60px;
+}
+.SEGUNDO{
+    font-size: 20px;
+
+}
+.imagen4{
+    width: 400px;
+    height: 300px;
+    padding: 20px 20px;
+}
+.imagen2{
+    width: 400px;
+    height: 300px;
+    padding: 20px 20px;
+}
+.article{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.imagen3{
+    width: 400px;
+    height: 300px;
+    padding: 10px 10px;
+}
+.imagen5{
+    width: 700px;
+    height: 400px;
+    padding: 20px 20px;
+}
+.SEXTO{
+    font-size: 20px;
+
+}
+.SEPTIMO{
+    font-size: 20px;
+}
+table{
+    margin: 40px 40px;
+}
+thead{
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+td,th{
+    border: 1px solid rgb(97, 92, 92);
+    padding: 8px 15px;
+}
+.imagen6{
+    width: 700px;
+    height: 400px;
+    padding: 10px 10px;
+}
+.NOVENO{
+    font-size: 20px;
+}
+.imagen7{
+    width: 800px;
+    height: 400px;
+    padding: 10px 10px;
+}
+.imagen9{
+    width: 900px;
+    height: 700px;
+    padding: 10px 10px;
+}
+.imagen10{
+    width: 900px;
+    height: 500px;
+    padding: 10px 10px;
+}
+.DECIMOCUARTO{
+    padding: 10px 10px;
+    font-size: 20px;
+}
+.imagen12{
+    width: 900px;
+    height: 500px;
+    padding: 10px 10px;
+}
+.imagen14{ 
+    width: 500px;
+    height: 500px;
+    padding: 20px 20px;
+}
+.imagen15{
+    width: 700px;
+    height: 500px;
+    padding: 20px 20px;
+}
+.imagen17{
+    width: 400px;
+    height: 300px;
+    padding: 20px 20px;
+}
+.imagen18{
+    width: 700px;
+    height: 600px;
+    padding: 20px 20px;
+}
+.VEINTE{
+    padding: 10px 10px;
+    font-size: 20px;
+}
+.imagen20{
+    width: 400px;
+    height: 300px;
+    padding: 10px 10px;
+}
+table{
+    margin: 40px 40px;
+}
+thead{
+    background-color: #0B486B;
+    color: aliceblue;
+    font-weight: bold;
+}
+td,th{
+    border: 1px solid black;
+    padding: 8px 15px;
+}
+
+
